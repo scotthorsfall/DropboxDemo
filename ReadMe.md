@@ -8,30 +8,28 @@ Time spent: 6 hours
 
 #### Required
 
-DONE - User can tap through the 3 welcome screens.
-DONE - User can follow the create user flow.
-DONE - On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
-DONE -  Before creating the account, user can choose to read the terms of service.
-DONE -  After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
-DONE -  User can log out from the Settings screen.
-DONE -  User can follow the sign in flow.
-DONE -  User can tap the area for "Having trouble signing in?".
-DONE -  User can log out from the Settings screen.
+- User can tap through the 3 welcome screens.
+- User can follow the create user flow.
+- On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
+-  Before creating the account, user can choose to read the terms of service.
+-  After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
+-  User can log out from the Settings screen.
+-  User can follow the sign in flow.
+-  User can tap the area for "Having trouble signing in?".
+-  User can log out from the Settings screen.
 
 #### Optional
 
-- [ ] Add a detail view for one of the files and implement favoriting the file.
-- [ ] Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
-DONE -  You should be able to swipe through the welcome screens instead of just tapping them.
+-  You should be able to swipe through the welcome screens instead of just tapping them.
 
 #### The following **additional** features are implemented:
-DONE - Added UIPageConrol for page indicators
-DONE - Used different assets for existing account tab bar (with files, photos scroll view, favs, and settings)
+- Added UIPageConrol for page indicators
+- Used different assets for existing account tab bar (with files, photos scroll view, favs, and settings)
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. Reusing the tab controller for both new account / existing account states
+2. Reusing some of the reptitive view controller files
 
 ### Video Walkthrough 
 
